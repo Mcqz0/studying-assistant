@@ -22,3 +22,5 @@
 ## Status
 
 - Project setup and planning stage
+- Working on backend functions(Completed register/login/assignment creation)
+- Next step would be working on testing
